@@ -1,4 +1,4 @@
-  1  pwd
+    1  pwd
     2  ls
     3  ls -a
     4  mkdir SectionG
