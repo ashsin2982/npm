@@ -1,0 +1,122 @@
+  1  pwd
+    2  ls
+    3  ls -a
+    4  mkdir SectionG
+    5  cd SectionG
+    6  touch file1.txt
+    7  man ls
+    8  man git
+    9  cat > file2.txt
+   10  cat file2.txt
+   11  cd SectionG
+   12  mkdir G1 G2 G3
+   13  cd G1
+   14  touch ashi.txt
+   15  cd ..
+   16  ls
+   17  ls -l
+   18  ls -i
+   19  cd g1
+   20  cd ..
+   21  cd G1
+   22  ls
+   23  echo "Ashi Singh"
+   24  echo "Hello students this is Ashi Singh" > ashi.txt
+   25  cat ashi.txt
+   26  ln ashi.txt diksha
+   27  ls
+   28  cat > ashi1.txt
+   29  cat > diksha1.txt
+   30  cd ..
+   31  cd ..
+   32  mkdir -p GLA/BTech/G
+   33  cd GLA
+   34  cat > ASHI.txt
+   35  cat > DIKSHA.txt
+   36  ln ASHI.txt DIKSHA.txt
+   37  ln ASHI.txt DIKSHA
+   38  ls
+   39  ls -l
+   40  ls -i
+   41  ls -ls
+   42  ls -lh
+   43  mkdir -p practice/2026/january/week1
+   44  cd practice
+   45  cd 2026
+   46  cd january
+   47  cd week 1
+   48  cd week1
+   49  touch file1.txt
+   50  touch file2.txt
+   51  ls -li
+   52  ls -i
+   53  ln file1.txt file_1.txt
+   54  ls -li
+   55  ls
+   56  mkdir -p records/2026/february/week2
+   57  cd records/2026/february/week2
+   58  touch project.txt notes.txt
+   59  ls -li
+   60  ln project.txt project_1.txt
+   61  ls
+   62  pwd
+   63  ls
+   64  l
+   65  cd unix
+   66  cd GLA
+   67  ls
+   68  git add ashi.py
+   69  git init
+   70  git status
+   71  pwd
+   72  mkdir ashu
+   73  cd ashu
+   74  echo "hello from ashi"
+   75  echo "hello from ashi" > github.txt
+   76  git init
+   77  git status
+   78  git add  github.txt
+   79  git status
+   80  git log
+   81  git diff
+   82  git --version
+   83  mkdir ASHU
+   84  cd ASHU
+   85  git int
+   86  git init
+   87  touch REDME.md
+   88  echo "my first repository"
+   89  git add.
+   90  got add .
+   91  git add .
+   92  git commit -m "first commit"
+   93  git branch -M origin
+   94  git remote add prigin
+   95  git remote add origin
+   96  cd ASHU
+   97  git branch -M main
+   98  git remote add origin
+   99  https://github.com/ashsin2982/GITBASH.git
+  100  ls
+  101  cd AShi
+  102  cs ASHI
+  103  cd ASHI
+  104  cd ashi
+  105  l
+  106  mkdir SectionG
+  107  cd SectionG
+  108  ls
+  109  echo "hello section "
+  110  git status
+  111  echo "hello section " > notes.txt
+  112  git status
+  113  git add notes.txt
+  114  git checkout -b nayabranch
+  115  ls
+  116  git status
+  117  git add notes.txt
+  118  got checkout main
+  119  git checkout main
+  120  git commit -m "done"
+  121  git merge nayabranch
+  122  history
